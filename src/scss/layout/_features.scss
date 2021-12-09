@@ -4,6 +4,7 @@
     justify-content: space-evenly;
     margin-right: -32px;
     margin-left: -32px;
+    background-color: #000;
 
     &:first-of-type {
         margin-top: -16px;
@@ -19,6 +20,7 @@
     width: 380px;
     max-width: 380px;
     flex-grow: 1;
+    background-color: #000;
 }
 
 .feature-inner {
